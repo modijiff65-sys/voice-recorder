@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0B0B12</item>
+        <item name="android:statusBarColor">#0B0B12</item>
+        <item name="android:navigationBarColor">#0B0B12</item>
+        <item name="android:colorAccent">#7C5CFF</item>
+    </style>
+
+    <style name="RoundBtn">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>
